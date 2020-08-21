@@ -28,8 +28,9 @@
         "defaults":
         {
             // Put settings here that you want to apply to all profiles.
-            "colorScheme": "xterm"
-
+            "colorScheme": "xterm",
+            "fontFace": "Consolas",
+            "fontSize": 10,
         },
         "list":
         [
