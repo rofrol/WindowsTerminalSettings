@@ -29,8 +29,8 @@
         {
             // Put settings here that you want to apply to all profiles.
             "colorScheme": "xterm",
-            "fontFace": "Consolas",
-            "fontSize": 10,
+            "fontFace": "Ubuntu Mono",
+            "fontSize": 12,
         },
         "list":
         [
